@@ -40,10 +40,10 @@ A **Cross-Site Scripting (XSS)** vulnerability was discovered in **Version 1** o
 ## Screenshots of the Vulnerability
 
 ### End User - Broken Layout Example
-![End User - Broken Layout](./images/end_user_broken_layout.png)
+![End User - Broken Layout](https://github.com/CodeByMoriarty/Insurance-Management-System-Stored-Xss/blob/main/admin.png)
 
 ### Administrator - Sidebar Broken
-![Administrator - Sidebar Broken](./images/admin_sidebar_broken.png)
+![Administrator - Sidebar Broken](https://github.com/CodeByMoriarty/Insurance-Management-System-Stored-Xss/blob/main/admin.png)
 
 ## Recommendations for Mitigation
 1. **Input Validation**: Sanitize input in all user-submitted fields, especially the "Subject" field, to prevent malicious scripts from being included.
