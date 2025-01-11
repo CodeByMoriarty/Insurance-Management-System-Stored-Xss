@@ -43,7 +43,7 @@ A **Cross-Site Scripting (XSS)** vulnerability was discovered in **Version 1** o
 ![End User - Broken Layout](https://github.com/CodeByMoriarty/Insurance-Management-System-Stored-Xss/blob/main/admin.png)
 
 ### Administrator - Sidebar Broken
-![Administrator - Sidebar Broken](https://github.com/CodeByMoriarty/Insurance-Management-System-Stored-Xss/blob/main/admin.png)
+![Administrator - Sidebar Broken](https://github.com/CodeByMoriarty/Insurance-Management-System-Stored-Xss/blob/main/user.png)
 
 ## Recommendations for Mitigation
 1. **Input Validation**: Sanitize input in all user-submitted fields, especially the "Subject" field, to prevent malicious scripts from being included.
@@ -62,5 +62,4 @@ A **Cross-Site Scripting (XSS)** vulnerability was discovered in **Version 1** o
 
 ## Contact Information
 - **Discovered by**: CodeByMoriarty (AndrewL)
-- **Email**: [your-email@example.com]
 
